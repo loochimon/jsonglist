@@ -1,8 +1,8 @@
-[
+  song = [
     {
         "title": "Sunflower",
         "artist": "Mall Grab",
-        "genre": "techno",
+        "genre": "Techno",
         "year": 2020
        
     },
@@ -10,14 +10,14 @@
     {
         "title": "The Bells",
         "artist": "Jeff Mills",
-        "genre": "techno",
+        "genre": "Techno",
         "year": 1996
     },
 
     {
         "title": "The Astrologist",
         "artist": "Wrong Assessment",
-        "genre": "techno",
+        "genre": "Techno",
         "year": 2020
     },
 
